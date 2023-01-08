@@ -1,4 +1,7 @@
 ### Hi there 👋
+My name is Kenedy
+
+My LinkedIn: https://www.linkedin.com/in/kenedykaefer/
 
 <!--
 **kenedykaefer/kenedykaefer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
