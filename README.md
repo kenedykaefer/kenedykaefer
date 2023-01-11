@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Kenedy
+I am kenedy, computer engineering student.
 
 My LinkedIn: https://www.linkedin.com/in/kenedykaefer/
 
